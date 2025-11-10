@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Jean Francois Regis MUKIZA!</h1>
-<h3 align="center">💻 Digital Forensics & Cybersecurity Student | 🔍 Ethical Hacker Enthusiast | 🌱 Lifelong Learner</h3>
+<h3 align="center">💻 Digital Forensics & Cybersecurity Student | 🔍 Ethical Hacker Enthusiast | 🌱 Lifelong Learner </h3>
 
 ---
 
@@ -46,7 +46,7 @@
 ## 📬 Mail Me
 
 <p align="center">
-  <a href="mailto:mukizaregis7@gmail.com">
+  <a href="mailto: mukizaregis7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
