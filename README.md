@@ -49,7 +49,7 @@
   <a href="mailto: mukizaregis7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <iframe src="https://github.com/sponsors/Jean-Regis-M/button" title="Sponsor Jean-Regis-M" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+ 
 </p>
 
 ---
