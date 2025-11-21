@@ -40,13 +40,9 @@
 </p>
 
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jean-Regis-M&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jean-Regis-M&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
 
 
 
