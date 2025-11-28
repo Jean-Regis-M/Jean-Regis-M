@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 🌟 Passionate about **Digital Forensics** and **Cybersecurity**, exploring vulnerabilities and securing systems wisely.  
-🚀 Earned a couple of **certificates from online cybersecurity courses** and constantly practicing CTFs in my free time.  
+🚀 Earned a couple of **certificates from online cybersecurity courses** and constantly practicing CTFs.  
 💡 Interested in **writing research papers** and working on **projects** to expand knowledge in digital forensics and security.  
 🔍 I enjoy blending analytical thinking, technical skills, and creativity to solve complex cybersecurity challenges.
 
