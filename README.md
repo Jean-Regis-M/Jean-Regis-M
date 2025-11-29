@@ -12,7 +12,12 @@
 💡 Interested in **writing research papers** and working on **projects** to expand knowledge in digital forensics and security.  
 🔍 I enjoy blending analytical thinking, technical skills, and creativity to solve complex cybersecurity challenges.
 
----
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Giphy Animation">
+</p>
+
 
 ## 💻 Tech Stack:
 ### Programming Languages and Concepts
