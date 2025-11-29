@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Jean Francois Regis MUKIZA!</h1>
+<h1 align="center">Just synced up! Jean Francois Regis MUKIZA here✨</h1>
 <h3 align="center">💻 Digital Forensics & Cybersecurity Student | 🔍 Ethical Hacker Enthusiast | 🌱 Lifelong Learner </h3>
 
 ---
