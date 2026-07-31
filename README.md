@@ -1,71 +1,263 @@
-<h1 align="center">Just synced up! Regis MUKIZA here✨</h1>
-<h3 align="center">💻 Digital Forensics & Cybersecurity Student | 🔍 Ethical Hacker Enthusiast | 🌱 Lifelong Learner </h3>
+<!--
+  Profile README for Jean-Regis-M
+  Designed as a focused security-engineering portfolio.
+  Dynamic cards may take a few seconds to load.
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0f172a,70:0e7490,100:22d3ee&text=Jean%20Francois%20Regis%20Mukiza&fontColor=e6faff&fontSize=38&fontAlignY=38&desc=Digital%20Forensics%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Secure%20AI%20Systems&descAlignY=58&animation=fadeIn" width="100%" alt="Jean Francois Regis Mukiza — Digital Forensics, Cybersecurity and Secure AI Systems" />
+
+<a href="https://github.com/Jean-Regis-M">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Engineering+evidence.+Defending+systems.+Securing+AI.;Building+at+the+intersection+of+forensics%2C+cloud+and+security.;Turning+complex+threats+into+practical%2C+testable+defenses." alt="Animated introduction" />
+</a>
+
+<p>
+  <a href="https://github.com/Jean-Regis-M?tab=followers"><img src="https://img.shields.io/github/followers/Jean-Regis-M?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jean-Regis-M&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="mailto:mukizaregis7@gmail.com"><img src="https://img.shields.io/badge/Let's%20Build-Email%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jean" /></a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mukiza-jean-francois-regis-bb9a80254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/Jean-Regis-M?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://owasp.org/"><img src="https://img.shields.io/badge/Open%20Source-OWASP%20Contributor-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP contributor" /></a>
+</p>
+
+</div>
 
 ---
 
+## `whoami`
 
+I am **Jean Francois Regis Mukiza**—an engineer working where **digital evidence, offensive security, secure software, and agentic AI** meet.
 
-## 🧠 About Me
+My foundation in **Electrical & Electronics Engineering** gives me a systems-level view of hardware, signals, networks, and reliability. My work in **Digital Forensics Engineering** and cybersecurity turns that perspective toward incident investigation, threat modeling, security automation, and resilient product development.
 
-🌟 Passionate about **Digital Forensics** and **Cybersecurity**, exploring vulnerabilities and securing systems wisely.  
-🚀 Earned a couple of **certificates from online cybersecurity courses** and constantly practicing CTFs.  
-💡 Interested in **writing research papers** and working on **projects** to expand knowledge in digital forensics and security.  
-🔍 I enjoy blending analytical thinking, technical skills, and creativity to solve complex cybersecurity challenges.
+> I do not only ask whether a system works. I ask what it trusts, how it can fail, what evidence it leaves behind, and how we can make it safer.
 
+- 🔬 Exploring **digital forensics, incident response, malware analysis, and reverse engineering**
+- 🛡️ Building **guardrails, telemetry, adversarial evaluation, and security tooling for AI agents**
+- 🤝 Contributing to **OWASP FinBot CTF** through the Google Summer of Code ecosystem
+- ⚙️ Developing across **Python/FastAPI, TypeScript/React, Android, databases, containers, and cloud infrastructure**
+- 🌍 Connecting engineering work across **Rwanda and Türkiye**
+- 📚 Learning in public through labs, CTFs, technical documentation, and open-source projects
 
-## 💻 Tech Stack:
-### Programming Languages and Concepts
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-%2300599C.svg?style=for-the-badge&logo=codeforces&logoColor=white)
+## Current mission
 
-### DevOps and Developer Tools
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Shell Scripting](https://img.shields.io/badge/shell%20scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### Software and Web Development
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FeathersJS](https://img.shields.io/badge/feathersjs-%23007ACC.svg?style=for-the-badge&logo=feathers&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### 🔍 Investigate
 
-### Computer Vision and Machine Learning
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Acquire and analyze digital evidence, reconstruct events, preserve integrity, and transform artifacts into defensible findings.
 
+</td>
+<td width="33%" valign="top">
 
-## 🧠 Most Used Languages
+### 🛡️ Defend
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Regis-M&layout=compact&theme=dark)](https://github.com/Jean-Regis-M)
+Design observable systems, enforce least privilege, validate trust boundaries, and automate detection and response.
 
-## 📊 GitHub Stats
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Secure AI
+
+Red-team agentic workflows, constrain tool use, evaluate prompt-based attacks, and make AI behavior measurable.
+
+</td>
+</tr>
+</table>
+
+## Featured engineering
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [OWASP FinBot CTF](https://github.com/Jean-Regis-M/finbot-ctf)
+
+**The Juice Shop for Agentic AI.** An intentionally vulnerable, multi-agent fintech environment for learning how AI systems fail—and how to secure them.
+
+`Agentic AI` `FastAPI` `MCP` `Redis` `Docker` `OWASP`
+
+[Explore the code →](https://github.com/Jean-Regis-M/finbot-ctf)
+
+</td>
+<td width="50%" valign="top">
+
+### [AegisLLM](https://github.com/Jean-Regis-M/AegisLLM)
+
+Security work focused on protecting LLM applications and building practical defenses around modern AI workflows.
+
+`LLM Security` `Guardrails` `Threat Modeling` `AI Red Teaming`
+
+[Explore the project →](https://github.com/Jean-Regis-M/AegisLLM)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [SentinelML](https://github.com/Jean-Regis-M/SentinelML)
+
+A security-oriented exploration of runtime visibility and workload protection for machine-learning infrastructure.
+
+`eBPF` `Rust` `Kubernetes` `Runtime Security` `MLSecOps`
+
+[Explore the project →](https://github.com/Jean-Regis-M/SentinelML)
+
+</td>
+<td width="50%" valign="top">
+
+### [ZK-ML Provable Inference](https://github.com/Jean-Regis-M/zkml-provable-inference-verifier)
+
+A cryptographic framework exploring verifiable ML inference with zero-knowledge proofs and model-integrity commitments.
+
+`zkML` `Circom` `Groth16` `Rust` `Applied Cryptography`
+
+[Explore the project →](https://github.com/Jean-Regis-M/zkml-provable-inference-verifier)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Digital Forensics Lab](https://github.com/Jean-Regis-M/digital-forensics-lab)
+
+A hands-on workspace for forensic workflows, evidence analysis, tooling, experiments, and repeatable investigative practice.
+
+`DFIR` `Evidence Analysis` `Forensic Tooling` `Labs`
+
+[Enter the lab →](https://github.com/Jean-Regis-M/digital-forensics-lab)
+
+</td>
+<td width="50%" valign="top">
+
+### [MallPulse](https://github.com/Jean-Regis-M/Malpulse)
+
+An agentic retail-intelligence concept connecting inventory discovery, fulfillment workflows, geospatial search, and cloud services.
+
+`Agentic Systems` `MongoDB` `Google Cloud` `FastAPI` `TypeScript`
+
+[Explore the project →](https://github.com/Jean-Regis-M/Malpulse)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jean-Regis-M&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/Jean-Regis-M?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" alt="View all repositories" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean-Regis-M&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## Security & forensics matrix
 
----
+| Domain | What I work on | Representative tools & concepts |
+|---|---|---|
+| **Digital Forensics & IR** | Evidence handling, timeline reconstruction, artifact analysis, incident investigation | Autopsy, Volatility, Wireshark, YARA, chain of custody |
+| **Offensive Security** | CTFs, attack-surface analysis, web and system testing, adversarial simulation | Burp Suite, Nmap, Metasploit, Ghidra, OWASP |
+| **AI Security** | Agentic threat modeling, prompt injection, tool-policy enforcement, secure telemetry | MCP, OWASP Agentic Top 10, guardrails, red teaming |
+| **Application Security** | Secure APIs, authentication, schema validation, least privilege, auditability | FastAPI, Pydantic, JWT, HMAC, testing |
+| **Cloud & Platform Security** | Containerization, observability, event pipelines, workload isolation | Docker, Kubernetes, Redis, Kafka, Grafana |
+| **Applied Cryptography** | Integrity, signed telemetry, proof systems, verifiable computation | HMAC-SHA256, zk-SNARKs, Groth16, Circom |
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jean-Regis-M&color=blue&style=flat-square" alt="Profile views" />
-  <br/>
-  <strong>Total Profile Views</strong>
-</p>
+## Engineering toolkit
 
+<div align="center">
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jean-Regis-M&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,c,cpp,rust,bash&theme=dark" alt="Python, Java, Kotlin, TypeScript, JavaScript, C, C++, Rust and Bash" />
 
+**Backend, data & AI systems**
 
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,postgres,mysql,redis,mongodb,pytorch,tensorflow&theme=dark" alt="FastAPI, Node.js, React, PostgreSQL, MySQL, Redis, MongoDB, PyTorch and TensorFlow" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Infrastructure & workflow**
 
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,aws,gcp,terraform,grafana&theme=dark" alt="Linux, Docker, Kubernetes, Git, GitHub, GitHub Actions, AWS, Google Cloud, Terraform and Grafana" />
 
+</div>
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukiza-jean-francois-regis-bb9a80254/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukizaregis7@gmail.com) 
+<details>
+<summary><b>Open the extended toolbox</b></summary>
+<br>
 
+- **Forensics & security:** Wireshark, Autopsy, Volatility, Ghidra, Nmap, Burp Suite, Metasploit, YARA
+- **Backend engineering:** FastAPI, SQLAlchemy, Pydantic, PostgreSQL, Redis, WebSockets
+- **Frontend & mobile:** React, TypeScript, Vite, Tailwind CSS, Android/Kotlin
+- **Infrastructure:** Docker, Kubernetes, Terraform, GitHub Actions, Kafka, ClickHouse, Grafana
+- **Data & ML:** NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, OpenCV
+- **Engineering practice:** threat modeling, unit/integration testing, API design, technical documentation
 
+</details>
 
----
+## Open-source focus
 
-⭐️ From [Jean-Regis-M](https://github.com/Jean-Regis-M)
+```text
+observe  → capture trustworthy telemetry
+detect   → identify unsafe or anomalous behavior
+contain  → limit agency, permissions, and blast radius
+verify   → test controls against realistic adversaries
+learn    → turn every failure into a stronger system
+```
+
+I am especially interested in collaborating on:
+
+- digital-forensics and incident-response tooling;
+- agentic-AI security, MCP safety, and LLM red teaming;
+- CTF platforms and practical cybersecurity education;
+- secure fintech, identity, and trust infrastructure;
+- open-source projects with measurable social impact.
+
+## GitHub intelligence
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jean-Regis-M&show_icons=true&hide_border=true&rank_icon=github&theme=default&title_color=0369a1&icon_color=0891b2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jean-Regis-M&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&title_color=22d3ee&icon_color=06b6d4" alt="Jean's GitHub statistics" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Regis-M&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=0369a1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Regis-M&layout=compact&hide_border=true&langs_count=8&theme=github_dark&title_color=22d3ee" alt="Most-used languages across public repositories" />
+</picture>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jean-Regis-M&bg_color=0d1117&color=22d3ee&line=0891b2&point=e6faff&area=true&area_color=164e63&hide_border=true&custom_title=Contribution%20Graph" alt="Jean's GitHub contribution activity graph" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Jean-Regis-M&theme=github-dark-blue&hide_border=true&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Jean-Regis-M&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub achievements" />
+
+</div>
+
+> Statistics are generated from public GitHub data and update automatically. Language cards describe repository composition—not personal proficiency.
+
+## Beyond the terminal
+
+- 🎓 Electrical & Electronics Engineering graduate
+- 🧭 Digital Forensics Engineering and cybersecurity practitioner
+- 🌱 Lifelong learner who values evidence, clarity, and disciplined execution
+- 🤝 Mentor and builder interested in technology that expands access and opportunity
+- 🌐 Open to research, open-source collaboration, security engineering, and mission-driven products
+
+## Let’s build trustworthy systems
+
+If you are working on **digital forensics, cybersecurity, secure AI, open-source security education, or resilient software**, I would be glad to connect.
+
+<div align="center">
+
+<a href="mailto:mukizaregis7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mukizaregis7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jean" /></a>
+<a href="https://www.linkedin.com/in/mukiza-jean-francois-regis-bb9a80254/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Jean on LinkedIn" /></a>
+
+<br><br>
+
+<sub><b>Security is strongest when evidence, engineering, and empathy work together.</b></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,45:0e7490,100:020617" width="100%" alt="" />
+
+</div>
