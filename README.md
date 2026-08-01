@@ -1,6 +1,6 @@
 <!--
   Profile README for Jean-Regis-M
-  Designed as a focused security-engineering portfolio.
+  Designed as a formal cybersecurity and engineering portfolio.
   Dynamic cards may take a few seconds to load.
 -->
 
@@ -9,18 +9,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0f172a,70:0e7490,100:22d3ee&text=Jean%20Francois%20Regis%20Mukiza&fontColor=e6faff&fontSize=38&fontAlignY=38&desc=Digital%20Forensics%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Secure%20AI%20Systems&descAlignY=58&animation=fadeIn" width="100%" alt="Jean Francois Regis Mukiza — Digital Forensics, Cybersecurity and Secure AI Systems" />
 
 <a href="https://github.com/Jean-Regis-M">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Engineering+evidence.+Defending+systems.+Securing+AI.;Building+at+the+intersection+of+forensics%2C+cloud+and+security.;Turning+complex+threats+into+practical%2C+testable+defenses." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Engineering+With+Integrity.+Securing+Digital+Systems.;Advancing+Digital+Forensics%2C+Cybersecurity%2C+and+Responsible+AI.;Transforming+Complex+Risks+Into+Practical%2C+Testable+Defences." alt="Animated introduction" />
 </a>
 
 <p>
   <a href="https://github.com/Jean-Regis-M?tab=followers"><img src="https://img.shields.io/github/followers/Jean-Regis-M?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Jean-Regis-M&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="mailto:mukizaregis7@gmail.com"><img src="https://img.shields.io/badge/Let's%20Build-Email%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jean" /></a>
+  <a href="mailto:mukizaregis7@gmail.com"><img src="https://img.shields.io/badge/Professional%20Enquiries-Email%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jean" /></a>
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/mukiza-jean-francois-regis-bb9a80254/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Jean-Regis-M?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/Jean-Regis-M?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
   <a href="https://owasp.org/"><img src="https://img.shields.io/badge/Open%20Source-OWASP%20Contributor-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP contributor" /></a>
 </p>
 
@@ -28,22 +28,22 @@
 
 ---
 
-## `whoami`
+## Executive Profile
 
-I am **Jean Francois Regis Mukiza**—an engineer working where **digital evidence, offensive security, secure software, and agentic AI** meet.
+I am **Jean Francois Regis Mukiza**, an engineer working at the intersection of **digital evidence, cybersecurity, secure software, and responsible agentic AI**.
 
-My foundation in **Electrical & Electronics Engineering** gives me a systems-level view of hardware, signals, networks, and reliability. My work in **Digital Forensics Engineering** and cybersecurity turns that perspective toward incident investigation, threat modeling, security automation, and resilient product development.
+My foundation in **Electrical and Electronics Engineering** provides me with a systems-level understanding of hardware, signals, networks, and reliability. My work in **Digital Forensics Engineering** and cybersecurity applies that perspective to incident investigation, threat modelling, security automation, and resilient product development.
 
-> I do not only ask whether a system works. I ask what it trusts, how it can fail, what evidence it leaves behind, and how we can make it safer.
+> I ask not only whether a system works, but also what it trusts, how it may fail, what evidence it preserves, and how it can be made safer.
 
-- 🔬 Exploring **digital forensics, incident response, malware analysis, and reverse engineering**
-- 🛡️ Building **guardrails, telemetry, adversarial evaluation, and security tooling for AI agents**
-- 🤝 Contributing to **OWASP FinBot CTF** through the Google Summer of Code ecosystem
-- ⚙️ Developing across **Python/FastAPI, TypeScript/React, Android, databases, containers, and cloud infrastructure**
-- 🌍 Connecting engineering work across **Rwanda and Türkiye**
-- 📚 Learning in public through labs, CTFs, technical documentation, and open-source projects
+- 🔬 I investigate **digital forensics, incident response, malware analysis, and reverse engineering**.
+- 🛡️ I build **guardrails, trustworthy telemetry, adversarial evaluations, and security tooling for AI agents**.
+- 🤝 I contribute to **OWASP FinBot CTF** through the Google Summer of Code programme.
+- ⚙️ I develop solutions using **Python and FastAPI, TypeScript and React, Android, databases, containers, and cloud infrastructure**.
+- 🌍 I connect engineering experience and technological perspectives across **Rwanda and Türkiye**.
+- 📚 I demonstrate continuous learning through laboratories, CTFs, technical documentation, and open-source projects.
 
-## Current mission
+## Professional Mission
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ Red-team agentic workflows, constrain tool use, evaluate prompt-based attacks, a
 </tr>
 </table>
 
-## Featured engineering
+## Selected Engineering Portfolio
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ Red-team agentic workflows, constrain tool use, evaluate prompt-based attacks, a
 
 ### [OWASP FinBot CTF](https://github.com/Jean-Regis-M/finbot-ctf)
 
-**The Juice Shop for Agentic AI.** An intentionally vulnerable, multi-agent fintech environment for learning how AI systems fail—and how to secure them.
+**The Juice Shop for Agentic AI.** This intentionally vulnerable, multi-agent fintech environment enables practitioners to understand how AI systems fail and how they can be secured.
 
 `Agentic AI` `FastAPI` `MCP` `Redis` `Docker` `OWASP`
 
@@ -90,7 +90,7 @@ Red-team agentic workflows, constrain tool use, evaluate prompt-based attacks, a
 
 ### [AegisLLM](https://github.com/Jean-Regis-M/AegisLLM)
 
-Security work focused on protecting LLM applications and building practical defenses around modern AI workflows.
+This security initiative focuses on protecting LLM applications and developing practical defences for modern AI workflows.
 
 `LLM Security` `Guardrails` `Threat Modeling` `AI Red Teaming`
 
@@ -103,7 +103,7 @@ Security work focused on protecting LLM applications and building practical defe
 
 ### [SentinelML](https://github.com/Jean-Regis-M/SentinelML)
 
-A security-oriented exploration of runtime visibility and workload protection for machine-learning infrastructure.
+This security-oriented project explores runtime visibility and workload protection for machine-learning infrastructure.
 
 `eBPF` `Rust` `Kubernetes` `Runtime Security` `MLSecOps`
 
@@ -114,7 +114,7 @@ A security-oriented exploration of runtime visibility and workload protection fo
 
 ### [ZK-ML Provable Inference](https://github.com/Jean-Regis-M/zkml-provable-inference-verifier)
 
-A cryptographic framework exploring verifiable ML inference with zero-knowledge proofs and model-integrity commitments.
+This cryptographic framework explores verifiable machine-learning inference through zero-knowledge proofs and model-integrity commitments.
 
 `zkML` `Circom` `Groth16` `Rust` `Applied Cryptography`
 
@@ -127,7 +127,7 @@ A cryptographic framework exploring verifiable ML inference with zero-knowledge 
 
 ### [Digital Forensics Lab](https://github.com/Jean-Regis-M/digital-forensics-lab)
 
-A hands-on workspace for forensic workflows, evidence analysis, tooling, experiments, and repeatable investigative practice.
+This practical workspace supports forensic workflows, evidence analysis, tooling experiments, and repeatable investigative practices.
 
 `DFIR` `Evidence Analysis` `Forensic Tooling` `Labs`
 
@@ -138,7 +138,7 @@ A hands-on workspace for forensic workflows, evidence analysis, tooling, experim
 
 ### [MallPulse](https://github.com/Jean-Regis-M/Malpulse)
 
-An agentic retail-intelligence concept connecting inventory discovery, fulfillment workflows, geospatial search, and cloud services.
+This agentic retail-intelligence concept connects inventory discovery, fulfilment workflows, geospatial search, and cloud services.
 
 `Agentic Systems` `MongoDB` `Google Cloud` `FastAPI` `TypeScript`
 
@@ -154,9 +154,9 @@ An agentic retail-intelligence concept connecting inventory discovery, fulfillme
   </a>
 </p>
 
-## Security & forensics matrix
+## Security and Forensics Competency Matrix
 
-| Domain | What I work on | Representative tools & concepts |
+| Domain | Professional Focus | Representative Tools and Concepts |
 |---|---|---|
 | **Digital Forensics & IR** | Evidence handling, timeline reconstruction, artifact analysis, incident investigation | Autopsy, Volatility, Wireshark, YARA, chain of custody |
 | **Offensive Security** | CTFs, attack-surface analysis, web and system testing, adversarial simulation | Burp Suite, Nmap, Metasploit, Ghidra, OWASP |
@@ -165,7 +165,7 @@ An agentic retail-intelligence concept connecting inventory discovery, fulfillme
 | **Cloud & Platform Security** | Containerization, observability, event pipelines, workload isolation | Docker, Kubernetes, Redis, Kafka, Grafana |
 | **Applied Cryptography** | Integrity, signed telemetry, proof systems, verifiable computation | HMAC-SHA256, zk-SNARKs, Groth16, Circom |
 
-## Engineering toolkit
+## Engineering Toolkit
 
 <div align="center">
 
@@ -173,48 +173,48 @@ An agentic retail-intelligence concept connecting inventory discovery, fulfillme
 
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,ts,js,c,cpp,rust,bash&theme=dark" alt="Python, Java, Kotlin, TypeScript, JavaScript, C, C++, Rust and Bash" />
 
-**Backend, data & AI systems**
+**Backend, Data, and AI Systems**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,postgres,mysql,redis,mongodb,pytorch,tensorflow&theme=dark" alt="FastAPI, Node.js, React, PostgreSQL, MySQL, Redis, MongoDB, PyTorch and TensorFlow" />
 
-**Infrastructure & workflow**
+**Infrastructure and Workflow**
 
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,githubactions,aws,gcp,terraform,grafana&theme=dark" alt="Linux, Docker, Kubernetes, Git, GitHub, GitHub Actions, AWS, Google Cloud, Terraform and Grafana" />
 
 </div>
 
 <details>
-<summary><b>Open the extended toolbox</b></summary>
+<summary><b>View the Extended Technical Toolkit</b></summary>
 <br>
 
-- **Forensics & security:** Wireshark, Autopsy, Volatility, Ghidra, Nmap, Burp Suite, Metasploit, YARA
-- **Backend engineering:** FastAPI, SQLAlchemy, Pydantic, PostgreSQL, Redis, WebSockets
-- **Frontend & mobile:** React, TypeScript, Vite, Tailwind CSS, Android/Kotlin
-- **Infrastructure:** Docker, Kubernetes, Terraform, GitHub Actions, Kafka, ClickHouse, Grafana
-- **Data & ML:** NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, OpenCV
-- **Engineering practice:** threat modeling, unit/integration testing, API design, technical documentation
+- **Forensics and Security:** I work with Wireshark, Autopsy, Volatility, Ghidra, Nmap, Burp Suite, Metasploit, and YARA.
+- **Backend Engineering:** I develop with FastAPI, SQLAlchemy, Pydantic, PostgreSQL, Redis, and WebSockets.
+- **Frontend and Mobile Engineering:** I develop with React, TypeScript, Vite, Tailwind CSS, Android, and Kotlin.
+- **Infrastructure:** I use Docker, Kubernetes, Terraform, GitHub Actions, Kafka, ClickHouse, and Grafana.
+- **Data and Machine Learning:** I work with NumPy, Pandas, scikit-learn, PyTorch, TensorFlow, and OpenCV.
+- **Engineering Practice:** I apply threat modelling, unit and integration testing, API design, and technical documentation.
 
 </details>
 
-## Open-source focus
+## Open-Source and Public-Interest Focus
 
 ```text
-observe  → capture trustworthy telemetry
-detect   → identify unsafe or anomalous behavior
-contain  → limit agency, permissions, and blast radius
-verify   → test controls against realistic adversaries
-learn    → turn every failure into a stronger system
+Observe  → Capture trustworthy telemetry.
+Detect   → Identify unsafe or anomalous behaviour.
+Contain  → Limit agency, permissions, and the potential impact.
+Verify   → Test controls against realistic adversaries.
+Learn    → Transform every failure into a stronger system.
 ```
 
-I am especially interested in collaborating on:
+I am especially interested in contributing to the following areas:
 
-- digital-forensics and incident-response tooling;
-- agentic-AI security, MCP safety, and LLM red teaming;
-- CTF platforms and practical cybersecurity education;
-- secure fintech, identity, and trust infrastructure;
-- open-source projects with measurable social impact.
+- **Digital forensics and incident response:** I am interested in developing dependable investigative tools and workflows.
+- **Responsible AI security:** I am interested in agentic-AI security, MCP safety, guardrails, and LLM red teaming.
+- **Cybersecurity education:** I am interested in CTF platforms and practical, accessible security education.
+- **Digital trust:** I am interested in secure financial technology, identity systems, and trustworthy digital infrastructure.
+- **Public-interest technology:** I am interested in open-source projects that deliver measurable institutional and social value.
 
-## GitHub intelligence
+## GitHub Activity and Technical Evidence
 
 <div align="center">
 
@@ -237,26 +237,26 @@ I am especially interested in collaborating on:
 
 > Statistics are generated from public GitHub data and update automatically. Language cards describe repository composition—not personal proficiency.
 
-## Beyond the terminal
+## Education, Character, and Service
 
-- 🎓 Electrical & Electronics Engineering graduate
-- 🧭 Digital Forensics Engineering and cybersecurity practitioner
-- 🌱 Lifelong learner who values evidence, clarity, and disciplined execution
-- 🤝 Mentor and builder interested in technology that expands access and opportunity
-- 🌐 Open to research, open-source collaboration, security engineering, and mission-driven products
+- 🎓 I am a graduate of **Electrical and Electronics Engineering**.
+- 🧭 I am a **Digital Forensics Engineering student and cybersecurity practitioner**.
+- 🌱 I value evidence, clarity, professional ethics, continuous learning, and disciplined execution.
+- 🤝 I mentor others and develop technology that can expand access, opportunity, and institutional capacity.
+- 🌐 I welcome opportunities in research, public-sector innovation, open-source collaboration, cybersecurity, and mission-driven engineering.
 
-## Let’s build trustworthy systems
+## Professional Engagement
 
-If you are working on **digital forensics, cybersecurity, secure AI, open-source security education, or resilient software**, I would be glad to connect.
+I welcome professional engagement in **digital forensics, cybersecurity, responsible AI, public-sector digital transformation, open-source security education, and resilient software engineering**.
 
 <div align="center">
 
 <a href="mailto:mukizaregis7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mukizaregis7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jean" /></a>
-<a href="https://www.linkedin.com/in/mukiza-jean-francois-regis-bb9a80254/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Jean on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mukiza-jean-francois-regis-bb9a80254/"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Jean on LinkedIn" /></a>
 
 <br><br>
 
-<sub><b>Security is strongest when evidence, engineering, and empathy work together.</b></sub>
+<sub><b>Technology serves society best when evidence, engineering, integrity, and public purpose work together.</b></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,45:0e7490,100:020617" width="100%" alt="" />
 
