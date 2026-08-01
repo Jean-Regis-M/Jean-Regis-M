@@ -13,7 +13,6 @@
 </a>
 
 <p>
-  <a href="https://github.com/Jean-Regis-M?tab=followers"><img src="https://img.shields.io/github/followers/Jean-Regis-M?style=for-the-badge&logo=github&label=Followers&color=0891b2" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Jean-Regis-M&color=06b6d4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="mailto:mukizaregis7@gmail.com"><img src="https://img.shields.io/badge/Professional%20Enquiries-Email%20Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jean" /></a>
 </p>
@@ -30,9 +29,11 @@
 
 ## Executive Profile
 
+<p align="center"><em>Engineering with integrity. Innovating with purpose. Serving through technology.</em></p>
+
 I am **Jean Francois Regis Mukiza**, an engineer working at the intersection of **digital evidence, cybersecurity, secure software, and responsible agentic AI**.
 
-My foundation in **Electrical and Electronics Engineering** provides me with a systems-level understanding of hardware, signals, networks, and reliability. My work in **Digital Forensics Engineering** and cybersecurity applies that perspective to incident investigation, threat modelling, security automation, and resilient product development.
+*My professional foundation* in **Electrical and Electronics Engineering** provides me with a systems-level understanding of hardware, signals, networks, and reliability. My work in **Digital Forensics Engineering** and cybersecurity applies that perspective to incident investigation, threat modelling, security automation, and resilient product development.
 
 > I ask not only whether a system works, but also what it trusts, how it may fail, what evidence it preserves, and how it can be made safer.
 
@@ -43,7 +44,11 @@ My foundation in **Electrical and Electronics Engineering** provides me with a s
 - 🌍 I connect engineering experience and technological perspectives across **Rwanda and Türkiye**.
 - 📚 I demonstrate continuous learning through laboratories, CTFs, technical documentation, and open-source projects.
 
+---
+
 ## Professional Mission
+
+<p align="center"><em>Investigate with precision • Defend with discipline • Innovate responsibly</em></p>
 
 <table>
 <tr>
@@ -51,27 +56,31 @@ My foundation in **Electrical and Electronics Engineering** provides me with a s
 
 ### 🔍 Investigate
 
-Acquire and analyze digital evidence, reconstruct events, preserve integrity, and transform artifacts into defensible findings.
+**Acquire and analyse digital evidence**, reconstruct events, preserve integrity, and transform technical artefacts into *clear, defensible findings*.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🛡️ Defend
 
-Design observable systems, enforce least privilege, validate trust boundaries, and automate detection and response.
+**Design observable and resilient systems**, enforce least privilege, validate trust boundaries, and automate *detection and response*.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🤖 Secure AI
 
-Red-team agentic workflows, constrain tool use, evaluate prompt-based attacks, and make AI behavior measurable.
+**Evaluate agentic workflows adversarially**, constrain tool use, test prompt-based attacks, and make *AI behaviour measurable and accountable*.
 
 </td>
 </tr>
 </table>
 
+---
+
 ## Selected Engineering Portfolio
+
+<p align="center"><em>A curated record of security research, practical engineering, and responsible innovation.</em></p>
 
 <table>
 <tr>
@@ -83,7 +92,7 @@ Red-team agentic workflows, constrain tool use, evaluate prompt-based attacks, a
 
 `Agentic AI` `FastAPI` `MCP` `Redis` `Docker` `OWASP`
 
-[Explore the code →](https://github.com/Jean-Regis-M/finbot-ctf)
+**[Explore the Code →]**(https://github.com/Jean-Regis-M/finbot-ctf)
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +103,7 @@ This security initiative focuses on protecting LLM applications and developing p
 
 `LLM Security` `Guardrails` `Threat Modeling` `AI Red Teaming`
 
-[Explore the project →](https://github.com/Jean-Regis-M/AegisLLM)
+**[Explore the Project →]**(https://github.com/Jean-Regis-M/AegisLLM)
 
 </td>
 </tr>
@@ -107,7 +116,7 @@ This security-oriented project explores runtime visibility and workload protecti
 
 `eBPF` `Rust` `Kubernetes` `Runtime Security` `MLSecOps`
 
-[Explore the project →](https://github.com/Jean-Regis-M/SentinelML)
+**[Explore the Project →]**(https://github.com/Jean-Regis-M/SentinelML)
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +127,7 @@ This cryptographic framework explores verifiable machine-learning inference thro
 
 `zkML` `Circom` `Groth16` `Rust` `Applied Cryptography`
 
-[Explore the project →](https://github.com/Jean-Regis-M/zkml-provable-inference-verifier)
+**[Explore the Project →]**(https://github.com/Jean-Regis-M/zkml-provable-inference-verifier)
 
 </td>
 </tr>
@@ -131,7 +140,7 @@ This practical workspace supports forensic workflows, evidence analysis, tooling
 
 `DFIR` `Evidence Analysis` `Forensic Tooling` `Labs`
 
-[Enter the lab →](https://github.com/Jean-Regis-M/digital-forensics-lab)
+**[Enter the Laboratory →]**(https://github.com/Jean-Regis-M/digital-forensics-lab)
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +151,7 @@ This agentic retail-intelligence concept connects inventory discovery, fulfilmen
 
 `Agentic Systems` `MongoDB` `Google Cloud` `FastAPI` `TypeScript`
 
-[Explore the project →](https://github.com/Jean-Regis-M/Malpulse)
+**[Explore the Project →]**(https://github.com/Jean-Regis-M/Malpulse)
 
 </td>
 </tr>
@@ -154,7 +163,11 @@ This agentic retail-intelligence concept connects inventory discovery, fulfilmen
   </a>
 </p>
 
+---
+
 ## Security and Forensics Competency Matrix
+
+<p align="center"><em>Core capabilities aligned with modern digital-security and institutional-resilience needs.</em></p>
 
 | Domain | Professional Focus | Representative Tools and Concepts |
 |---|---|---|
@@ -165,7 +178,11 @@ This agentic retail-intelligence concept connects inventory discovery, fulfilmen
 | **Cloud & Platform Security** | Containerization, observability, event pipelines, workload isolation | Docker, Kubernetes, Redis, Kafka, Grafana |
 | **Applied Cryptography** | Integrity, signed telemetry, proof systems, verifiable computation | HMAC-SHA256, zk-SNARKs, Groth16, Circom |
 
+---
+
 ## Engineering Toolkit
+
+<p align="center"><em>Technologies selected to investigate thoroughly, engineer reliably, and deliver securely.</em></p>
 
 <div align="center">
 
@@ -196,7 +213,11 @@ This agentic retail-intelligence concept connects inventory discovery, fulfilmen
 
 </details>
 
+---
+
 ## Open-Source and Public-Interest Focus
+
+<p align="center"><em>Technology should strengthen institutions, expand opportunity, and earn public trust.</em></p>
 
 ```text
 Observe  → Capture trustworthy telemetry.
@@ -206,7 +227,7 @@ Verify   → Test controls against realistic adversaries.
 Learn    → Transform every failure into a stronger system.
 ```
 
-I am especially interested in contributing to the following areas:
+**I am especially interested in contributing to the following areas:**
 
 - **Digital forensics and incident response:** I am interested in developing dependable investigative tools and workflows.
 - **Responsible AI security:** I am interested in agentic-AI security, MCP safety, guardrails, and LLM red teaming.
@@ -214,7 +235,11 @@ I am especially interested in contributing to the following areas:
 - **Digital trust:** I am interested in secure financial technology, identity systems, and trustworthy digital infrastructure.
 - **Public-interest technology:** I am interested in open-source projects that deliver measurable institutional and social value.
 
+---
+
 ## GitHub Activity and Technical Evidence
+
+<p align="center"><em>Public activity, sustained learning, and verifiable engineering work.</em></p>
 
 <div align="center">
 
@@ -235,9 +260,13 @@ I am especially interested in contributing to the following areas:
 
 </div>
 
-> Statistics are generated from public GitHub data and update automatically. Language cards describe repository composition—not personal proficiency.
+> **Transparency Note:** *These statistics are generated from public GitHub data and update automatically. Language cards describe repository composition rather than personal proficiency.*
+
+---
 
 ## Education, Character, and Service
+
+<p align="center"><em>Technical competence guided by ethics, discipline, continuous learning, and public purpose.</em></p>
 
 - 🎓 I am a graduate of **Electrical and Electronics Engineering**.
 - 🧭 I am a **Digital Forensics Engineering student and cybersecurity practitioner**.
@@ -245,9 +274,13 @@ I am especially interested in contributing to the following areas:
 - 🤝 I mentor others and develop technology that can expand access, opportunity, and institutional capacity.
 - 🌐 I welcome opportunities in research, public-sector innovation, open-source collaboration, cybersecurity, and mission-driven engineering.
 
+---
+
 ## Professional Engagement
 
-I welcome professional engagement in **digital forensics, cybersecurity, responsible AI, public-sector digital transformation, open-source security education, and resilient software engineering**.
+<p align="center"><em>Available for meaningful work at the intersection of cybersecurity, innovation, and public service.</em></p>
+
+I welcome professional engagement in **digital forensics, cybersecurity, responsible AI, public-sector digital transformation, open-source security education, and resilient software engineering**. *I am particularly motivated by opportunities that combine rigorous engineering with measurable public value.*
 
 <div align="center">
 
@@ -256,7 +289,7 @@ I welcome professional engagement in **digital forensics, cybersecurity, respons
 
 <br><br>
 
-<sub><b>Technology serves society best when evidence, engineering, integrity, and public purpose work together.</b></sub>
+<sub><strong><em>Technology serves society best when evidence, engineering, integrity, and public purpose work together.</em></strong></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,45:0e7490,100:020617" width="100%" alt="" />
 
